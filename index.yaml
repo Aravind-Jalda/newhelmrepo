@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https://github.com/Aravind-Jalda/newhelmrepo/nginx-0.1.0.tgz
+    - https://github.com/Aravind-Jalda/newhelmrepo/main/nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2024-08-09T12:20:37.714307+05:30"
